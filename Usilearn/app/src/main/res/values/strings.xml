@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">Usilearn</string>
-    <string name="nomeet">You have no meetings organized.</string>
+    <string name="nomeet">You have no meetings scheduled.</string>
+    <string name="yesmeet">You have a meeting scheduled for tomorrow. Click here to cancel it.</string>
     <string name="calculus">Calculus</string>
     <string name="computer_architecture">Computer Architecture</string>
     <string name="add_topic">Add Topic</string>
     <string name="your_topics">YOUR TOPICS</string>
     <string name="algorithms">Algorithms</string>
     <string name="choose_a_new_topic">CHOOSE A NEW TOPIC</string>
+    <string name="list_of_tutors">List of tutors</string>
+    <string name="richard_algorithms_tutor">Richard, Algorithms tutor</string>
+    <string name="organize_meeting">Organize meeting</string>
+    <string name="rickycontact">Email: rickyb.usi.ch\nTelephone: 340000000</string>
+    <string name="find_a_tutor">Find a tutor</string>
 </resources>
