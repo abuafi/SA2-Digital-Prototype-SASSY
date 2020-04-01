@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Usilearn</string>
+    <string name="nomeet">You have no meetings organized.</string>
+    <string name="calculus">Calculus</string>
+    <string name="computer_architecture">Computer Architecture</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="your_topics">YOUR TOPICS</string>
+    <string name="algorithms">Algorithms</string>
+    <string name="choose_a_new_topic">CHOOSE A NEW TOPIC</string>
+</resources>
