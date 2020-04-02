@@ -13,4 +13,13 @@
     <string name="organize_meeting">Organize meeting</string>
     <string name="rickycontact">Email: rickyb.usi.ch\nTelephone: 340000000</string>
     <string name="find_a_tutor">Find a tutor</string>
+    <string name="q1">How do you input a string in python?\nBy User#251</string>
+    <string name="a1">Just use input() ;)\nBy Richard</string>
+    <string name="qna">Questions and answers</string>
+    <string name="view">View</string>
+    <string name="q2">If a function is O(n) is it also O(logn)?\nBy User#285</string>
+    <string name="a2" />
+    <string name="empty" />
+    <string name="send">send</string>
+    <string name="hint">Type your answer here</string>
 </resources>

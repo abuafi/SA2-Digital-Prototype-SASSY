@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Tutors"></activity>
+        <activity android:name=".QuestionPage"></activity>
+        <activity android:name=".Qanda" />
+        <activity android:name=".Tutors" />
         <activity android:name=".CaMain" />
         <activity android:name=".CalcMain" />
         <activity android:name=".AlgoMain" />

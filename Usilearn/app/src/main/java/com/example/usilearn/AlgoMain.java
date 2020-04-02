@@ -24,4 +24,9 @@ public class AlgoMain extends AppCompatActivity {
         Intent intent = new Intent(this, Tutors.class);
         startActivity(intent);
     }
+
+    public void sendToQna(View view) {
+        Intent intent = new Intent(this, Qanda.class);
+        startActivity(intent);
+    }
 }
